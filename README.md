@@ -1,18 +1,18 @@
 # Docker CarsiNET
 
-CarsiNET projesinin dockerda çalışan halidir.
+This is the version of the CarsiNET project running on Docker.
   
-## Çalıştırmak İçin:
+## Usage:
 	
 	docker run -d -p 8080:80 hilmiesen/alpine-carsinet
   
-## CarsiNET Projesi Hakkında:  
+## About CarsiNET Project:  
   
-- Bu ürün ADC ve WAF testlerinde kullanılmak üzere, mini bir e-ticaret sitesini baz alınarak yazılmıştır.
+- This product was written based on a mini e-commerce site to be used in ADC and WAF tests.
 
-- Admin sayfasına /admin ile erişebilirsiniz. User/Pass: admin/admin
+- You can access the admin page with /admin. User/Pass: admin/admin
  
   
-CarsiNET Projesine bu linkten ulaşabilirsiniz: [CarsiNET](https://github.com/hilmiesen/carsinet)
+CarsiNET Project: [CarsiNET](https://github.com/hilmiesen/carsinet)
 
 **Hilmi Esen**
