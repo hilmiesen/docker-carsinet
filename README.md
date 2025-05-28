@@ -4,7 +4,7 @@ This is the version of the CarsiNET project running on Docker.
   
 ## Usage:
 	
-	docker run -d -p 8080:80 hilmiesen/alpine-carsinet
+	docker run -d -p 8080:80 -p 8443:443 hilmiesen/alpine-carsinet
   
 ## About CarsiNET Project:  
   
